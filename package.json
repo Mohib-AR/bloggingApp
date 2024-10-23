@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon back_end/index.js",
     "start": "node back_end/index.js",
-    "build": "npm install && npm install --prefix front_end && npm run build --prefix font_end"
+    "build": "npm install && npm install --prefix front_end && npm run build --prefix front_end"
   },
   "author": "Mohib Ali",
   "license": "ISC",
